@@ -48,8 +48,11 @@ Neste aplicativo há 3 telas: noticias, tempo e favoritos, cada um possui sua fu
   </div>
 
 <h2>⚒️ Funcionalidades</h2>
+
   -`Funcionalidade 1` : Consumo de duas <code>API´s</code>, uma relacionada a temperatura/clima e outra relacionada com as notícias.
+  
   -`Funcionalidade 2` : Exibição da temperatura do local presente.
+  
   -`Funcionalidade 3` : Possibilidade de ver a temperatura de determinado ambiente (Uso de IOT).
 
 <h2>✔️ Tecnologias usadas</h2>
